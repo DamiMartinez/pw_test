@@ -1,0 +1,19 @@
+{
+  "name": "pw_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamiMartinez/pw_test.git"
+  },
+  "author": "Damian Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamiMartinez/pw_test/issues"
+  },
+  "homepage": "https://github.com/DamiMartinez/pw_test#readme"
+}
